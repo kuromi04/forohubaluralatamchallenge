@@ -1,6 +1,6 @@
 # ForoHub: API REST para un Foro
 
-![ForoHub Logo](https://via.placeholder.com/150)
+![4951974800276958671](https://github.com/user-attachments/assets/7dda2a89-af0f-4f52-a042-c23457767447)
 
 ## � Descripción del Proyecto
 
